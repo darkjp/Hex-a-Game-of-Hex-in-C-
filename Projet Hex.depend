@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1509982039 source:c:\users\sebma\desktop\projet hex\hex.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Hex.h"
+	"Joueur.h"
+	"unittest.h"
+
+1509982143 c:\users\sebma\desktop\projet hex\hex.h
+
+1509724288 c:\users\sebma\desktop\projet hex\joueur.h
+
+1509982143 source:c:\users\sebma\desktop\projet hex\main.cpp
+	"unittest.h"
+	"Hex.h"
+	"Joueur.h"
+
+1507190030 c:\users\sebma\desktop\projet hex\unittest.h
+	<iostream>
+	<string>
+
+1506428368 source:c:\users\sebma\desktop\projet hex\unittest.cpp
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	"unittest.h"
+
+1509723578 source:c:\users\sebma\desktop\projet hex\joueur.cpp
+	<stdio.h>
+	"Joueur.h"
+
